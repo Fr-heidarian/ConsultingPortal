@@ -1,0 +1,124 @@
+{
+  "companies": [
+    {
+      "id": "1",
+      "logoImage": "https://avatars.githubusercontent.com/u/51633191",
+      "companyName": "Stratagem Solutions",
+      "serviceType": "Management",
+      "description": "Consulting on business strategies, process optimization, and efficiency improvement.",
+      "phone": "(650) 121-2132",
+      "email": "example@gmail.com",
+      "url": "https://www.company.com/"
+    },
+    {
+      "id": "2",
+      "logoImage": "https://avatars.githubusercontent.com/u/25488634",
+      "companyName": " TechGuard Consulting ",
+      "serviceType": "Information Technology",
+      "description": "Advising on IT system implementation, cybersecurity, and data analytics.",
+      "phone": "(650) 121-2132",
+      "email": "example@gmail.com",
+      "url": "https://www.company.com/"
+    },
+    {
+      "id": "3",
+      "logoImage": "https://avatars.githubusercontent.com/u/30152037",
+      "companyName": "FinWise Advisors",
+      "serviceType": "Finance",
+      "description": "Providing guidance on financial management, investment strategies, and market analysis.",
+      "phone": "(650) 121-2132",
+      "email": "example@gmail.com",
+      "url": "https://www.company.com/"
+    },
+    {
+      "id": "4",
+      "logoImage": "https://avatars.githubusercontent.com/u/55869252",
+      "companyName": "TalentBridge Consulting",
+      "serviceType": "Human Resources",
+      "description": "Consulting on workforce management, employee training, and development.",
+      "phone": "(650) 121-2132",
+      "email": "example@gmail.com",
+      "url": "https://www.company.com/"
+    },
+    {
+      "id": "5",
+      "logoImage": "https://avatars.githubusercontent.com/u/30152037",
+      "companyName": "MarketMinds Agency",
+      "serviceType": "Marketing",
+      "description": " Advising on marketing strategies, branding, and market research.",
+      "phone": "(650) 121-2132",
+      "email": "example@gmail.com",
+      "url": "https://www.company.com/"
+    },
+    {
+      "id": "6",
+      "logoImage": "https://avatars.githubusercontent.com/u/30152037",
+      "companyName": "EcoVision Consulting",
+      "serviceType": "Environmental and Sustainability",
+      "description": "Consulting on environmental management, impact assessments, and sustainable development.",
+      "phone": "(650) 121-2132",
+      "email": "example@gmail.com",
+      "url": "https://www.company.com/"
+    },
+    {
+      "id": "7",
+      "logoImage": "https://avatars.githubusercontent.com/u/30152037",
+      "companyName": "OptiFlow Consultants",
+      "serviceType": "Operations",
+      "description": "Consulting on supply chain management, logistics, and process improvement.",
+      "phone": "(650) 121-2132",
+      "email": "example@gmail.com",
+      "url": "https://www.company.com/"
+    },
+    {
+      "id": "8",
+      "logoImage": "https://avatars.githubusercontent.com/u/30152037",
+      "companyName": "RiskShield Advisory",
+      "serviceType": "Risk Management",
+      "description": " Advising on identifying, assessing, and mitigating risks in various business operations.",
+      "phone": "(650) 121-2132",
+      "email": "example@gmail.com",
+      "url": "https://www.company.com/"
+    },
+    {
+      "id": "9",
+      "logoImage": "https://avatars.githubusercontent.com/u/30152037",
+      "companyName": " SalesBoost Partners",
+      "serviceType": "Sales",
+      "description": "Providing strategies for sales optimization, customer relationship management, and sales training.",
+      "phone": "(650) 121-2132",
+      "email": "example@gmail.com",
+      "url": "https://www.company.com/"
+    },
+    {
+      "id": "10",
+      "logoImage": "https://avatars.githubusercontent.com/u/30152037",
+      "companyName": "CompliLaw Consulting",
+      "serviceType": "Legal",
+      "description": "Consulting on compliance, regulatory issues, and corporate governance.",
+      "phone": "(650) 121-2132",
+      "email": "example@gmail.com",
+      "url": "https://www.company.com/"
+    },
+    {
+      "id": "11",
+      "logoImage": "https://avatars.githubusercontent.com/u/30152037",
+      "companyName": " HealthWise Strategies",
+      "serviceType": "Healthcare",
+      "description": "Advising healthcare organizations on operations, policy implementation, and patient care improvement.",
+      "phone": "(650) 121-2132",
+      "email": "example@gmail.com",
+      "url": "https://www.company.com/"
+    },
+    {
+      "id": "12",
+      "logoImage": "https://avatars.githubusercontent.com/u/30152037",
+      "companyName": " EduFuture Consultants",
+      "serviceType": "Education",
+      "description": "Modi adulescens qui ducimus ultra deprecator.\nVix debitis sed aperiam cinis subseco.\nAttonbitus delicate acies harum.\nUllus vigor aetas veniam vicissitudo cupressus.\nReiciendis tamquam tandem vitae.",
+      "phone": "(650) 121-2132",
+      "email": "example@gmail.com",
+      "url": "https://www.company.com/"
+    }
+  ]
+}
